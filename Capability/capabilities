@@ -1,6 +1,7 @@
 
 {
-  "capabilityId" : "string"
+  "capabilityId" : "UUID"
+  "name" : "string"
   "description" : "text"
   "location" : "hyperlink"
   "tags" : [ ]
