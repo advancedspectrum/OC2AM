@@ -1,9 +1,11 @@
 
 {
   "capabilityId" : "UUID"
-  "name" : "string"
-  "description" : "text"
-  "location" : "hyperlink"
-  "tags" : [ ]
-  "sublevels" : [ ]
+  "commonProperties" : { 
+                          "$ref" : "location/of/the/common/properties/def"
+                       }
+  "sublevels" : [ { 
+                     "$ref" : "location/of/the/levels/properties/def"
+                  }]
+  
 }
