@@ -1,1 +1,8 @@
 
+{
+  "capabilityId" : "string"
+  "description" : "text"
+  "location" : "hyperlink"
+  "tags" : [ ]
+  "sublevels" : [ ]
+}
