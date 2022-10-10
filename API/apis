@@ -1,6 +1,6 @@
 {
   "apiId" : "UUID"
-  "parentSublevel" : "subLevelId"
+  "parentSublevel" : ["resourceId", "resourceId"]
   "commonProperties" : { 
                           "$ref" : "location/of/the/common/properties/def"
                        }
