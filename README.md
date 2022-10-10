@@ -5,13 +5,13 @@ The hierarchy
 
 - Org  - > orgId and multiple domainIds
   - Domain  -> domainId & orgId
-    - Level_1    -> subLevelId & domainId
+    - Level_1  -> subLevelId & domainId
       - Level_2
         - ....
           - Level_N          
-            - Capabilities -> capabilityId & subLevelId
-              - Resource  -> resourceid & subLevelId / multiple apiIds
-                - API -> multiple resourceIds
+            - Capabilities  -> capabilityId & subLevelId
+              - Resource   -> resourceid & subLevelId / multiple apiIds
+                - API  -> multiple resourceIds
                         
 Org is the name of the organization or company. 
 
