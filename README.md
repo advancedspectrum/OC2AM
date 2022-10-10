@@ -28,4 +28,4 @@ The hierarchy is as follows
 
 **Use Cases** describe the conditions and actors that activate a Capability. A use case for Student Recruiting capability can be to "Allow students to register for a University show case event".
 
-A 'commonProperties' file describes the schema of attributes that are reusable across all parts of the hierarchy.
+**commonProperties** file describes the schema of attributes that are reusable across all parts of the hierarchy.
