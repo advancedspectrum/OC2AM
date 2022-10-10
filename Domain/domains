@@ -5,7 +5,7 @@
   "commonProperties" : { 
                           "$ref" : "location/of/the/common/properties/def"
                        }
-  "sublevels" : [ { 
+  "subLevels" : [ { 
                      "$ref" : "location/of/the/levels/properties/def"
                   }]
   
