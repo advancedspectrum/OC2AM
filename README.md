@@ -1,5 +1,5 @@
 # OC2AM
-OC2AM or Organizational Capability to API Model is repo that contains artifacts about an organization's capabilities and their underlying resources to drive API Strategy and Program. 
+OC2AM or Organizational Capability to API Model is a repo that contains artifacts about an organization's capabilities and their underlying resources to drive API Strategy and Program. 
 
 The hierarchy
 
