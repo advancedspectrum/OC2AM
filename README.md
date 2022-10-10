@@ -1,5 +1,5 @@
 # OC2AM
-OC2AM or Organizational Capability to API Model is a repo that contains artifacts about an organization's capabilities and their underlying resources to drive API Strategy and Program. The purpose of this repo is to provide a machine-readble construct to document this model and generate a visual map if necessary. It also enables the organization to better understand how to categorize/tag/identify APIs to drive better insight or connectivity to KPIs. It can be further modified to include dimensions of personas, security policies, consumer categories and more.
+OC2AM or Organizational Capability to API Model is a repo that contains artifacts about an organization's capabilities and their underlying resources to drive API Strategy and Program. The purpose of this repo is to provide a machine-readble construct to document this model and generate a visual map if necessary. It also enables the organization to better understand how to categorize/tag/identify APIs to drive better insight or connectivity to KPIs. It can be further modified to include dimensions of personas, security policies, consumer categories, domain data models and more.
 
 The hierarchy
 
