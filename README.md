@@ -3,16 +3,16 @@ OC2AM or Organizational Capability to API Model is a repo that contains artifact
 
 The hierarchy is as follows
 
-- Org  - > orgId maps to multiple domainIds
-  - Domain  -> domainId maps to one orgId
-    - Level_1  -> subLevelId maps to one domainId
-      - Level_2
+- **Org**  - > orgId maps to multiple domainIds
+  - **Domain**  -> domainId maps to one orgId
+    - **Level_1**  -> subLevelId maps to one domainId
+      - **Level_2**
         - ....
-          - Level_N          
-            - Capabilities  -> capabilityId maps to one subLevelId
-              - Resource   -> resourceid maps to 1 or more capabilityId(s) and apiId(s)
-                - API  -> maps to 1 or more resourceId(s)
-              - Use Cases         
+          - **Level_N**          
+            - **Capabilities**  -> capabilityId maps to one subLevelId
+              - **Resource**   -> resourceid maps to 1 or more capabilityId(s) and apiId(s)
+                - **API**  -> maps to 1 or more resourceId(s)
+              - **Use Cases**         
 
 Org is the name of the organization or company. in the case of university it would be the name of the university.
 
