@@ -26,4 +26,4 @@ Resources are business objects on which actions are performed. For example, a cu
 
 APIs are the access points to Resources and expose operations (aka actions) that can be performed on them programmatically. APIs can have 1 to many relationship to Resources.
 
-Use Cases describe under what conditions the required capabilities are activated. A use case for Student Recruiting capability can be to "Allow students to register for a University show case event".
+Use Cases describe the conditions and actors that activate a Capability. A use case for Student Recruiting capability can be to "Allow students to register for a University show case event".
