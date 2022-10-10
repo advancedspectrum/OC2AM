@@ -1,10 +1,10 @@
 {
   "levelId" : "UUID"
-  "parentLevelId" : "sublevel or domainID"
+  "parentLevelId" : "value of sublevel or domainID"
   "commonProperties" : {
                           "$ref" : "location/of/the/common/properties/def"
                        }
-  "sublevels" : [ { 
+  "subLevels" : [ { 
                      "$ref" : "location/of/the/levels/properties/def"
                   }]
   
