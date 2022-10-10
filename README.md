@@ -1,5 +1,5 @@
-# OCRM
-This repo contains artifacts about an organization's capabilities and their underlying resources to drive API Strategy and Program. 
+# OC2RM
+OC2RM or Organizational Capability to Resource Model is repo that contains artifacts about an organization's capabilities and their underlying resources to drive API Strategy and Program. 
 
 The hierarchy
 
