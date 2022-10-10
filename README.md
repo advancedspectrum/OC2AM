@@ -13,6 +13,7 @@ The hierarchy
               - Resource   -> resourceid maps to 1 or more capabilityId(s) and apiId(s)
                 - API  -> maps to 1 or more resourceId(s)
               - Use Cases         
+
 Org is the name of the organization or company. in the case of university it would be the name of the university.
 
 Domains are the top level business divisions based on the organizations criteria for divisions. Domains are non-overlapping in nature and must contain 1 or more sub-levels. For example, a University may use the following divisions: Academics, Research, Business Spport, etc. All domain must map to the same Org. Domains must be uniqueand have a 1 to 1 relationship to Org.
