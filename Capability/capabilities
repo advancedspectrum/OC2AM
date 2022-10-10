@@ -4,6 +4,6 @@
   "commonProperties" : { 
                           "$ref" : "location/of/the/common/properties/def"
                        }
-  "ParentSublevelId" : "sublevelId"
+  "parentLevelId" : "sublevelId"
   
 }
