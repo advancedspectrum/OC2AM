@@ -3,15 +3,15 @@ OC2RM or Organizational Capability to Resource Model is repo that contains artif
 
 The hierarchy
 
-- Org  - > orgId and multiple domainIds
-  - Domain  -> domainId & orgId
-    - Level_1  -> subLevelId & domainId
+- Org  - > orgId maps to multiple domainIds
+  - Domain  -> domainId maps to one orgId
+    - Level_1  -> subLevelId maps to one domainId
       - Level_2
         - ....
           - Level_N          
-            - Capabilities  -> capabilityId & subLevelId
-              - Resource   -> resourceid & subLevelId / multiple apiIds
-                - API  -> multiple resourceIds
+            - Capabilities  -> capabilityId maps to one subLevelId
+              - Resource   -> resourceid maps to 1 or more capabilityId(s) and apiId(s)
+                - API  -> maps to 1 or more resourceId(s)
                         
 Org is the name of the organization or company. 
 
