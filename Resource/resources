@@ -3,4 +3,5 @@
   "commonProperties" : {
                           "$ref" : "location/of/the/common/properties/def"
   "parentLevelId" : "value of subLevelId"
+  "apis" :  ["apiId", "apiId"]
 }
