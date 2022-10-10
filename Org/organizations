@@ -1,4 +1,6 @@
 {
   "orgId" : "UUID"
-  
+   "commonProperties" : { 
+                          "$ref" : "location/of/the/common/properties/def"
+                       }
 }
