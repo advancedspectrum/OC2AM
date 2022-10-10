@@ -4,12 +4,12 @@ This repo contains artifacts about an organization's capabilities and their unde
 The hierarchy
 
 Domain  -> domainId
--Level_1    -> subLevelId & domainId
-  -Level_2
-    -....
-      -Level_N          
-        -Resource  -> subLevelId & domainId
-          -API -> resourceId
+- Level_1    -> subLevelId & domainId
+  - Level_2
+    - ....
+      - Level_N          
+        - Resource  -> resourceid & subLevelId
+          - API -> resourceId
                         
 Domains are the top level business divisions based on the organizations criteria for divisions. Domains are non-overlapping in nature and must contain 1 or more sub-levels. For example, a University may use the following divisions: Academics, Research, Business Spport, etc.
 
