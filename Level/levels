@@ -7,3 +7,6 @@
                      "$ref" : "location/of/the/levels/properties/def"
                   }]
   
+  "resources" : [ { 
+                     "$ref" : "location/of/the/resources/properties/def"
+                  }]
