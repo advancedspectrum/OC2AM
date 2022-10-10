@@ -10,3 +10,4 @@
   "resources" : [ { 
                      "$ref" : "location/of/the/resources/properties/def"
                   }]
+}
