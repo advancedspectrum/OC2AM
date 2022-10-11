@@ -1,6 +1,6 @@
 
 {
-  "capabilityId" : "UUID"
+  "capabilityId" : "GUID"
   "commonProperties" : { 
                           "$ref" : "location/of/the/common/properties/def"
                        }
