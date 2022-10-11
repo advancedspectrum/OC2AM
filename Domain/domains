@@ -1,7 +1,7 @@
 
 
 {
-  "domainId" : "UUID"
+  "domainId" : "GUID"
   "parentLevelId" : "value of orgId"
   "commonProperties" : { 
                           "$ref" : "location/of/the/common/properties/def"
