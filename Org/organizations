@@ -1,5 +1,5 @@
 {
-  "orgId" : "UUID"
+  "orgId" : "GUID"
    "commonProperties" : { 
                           "$ref" : "location/of/the/common/properties/def"
                        }
