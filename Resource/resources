@@ -1,5 +1,5 @@
 {
-  "resourceId" : "UUID"
+  "resourceId" : "GUID"
   "commonProperties" : {
                           "$ref" : "location/of/the/common/properties/def"
   "parentLevelId" : ["value of capabilityId", "value of capabilityId", ...]
