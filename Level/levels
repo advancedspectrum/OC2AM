@@ -1,5 +1,5 @@
 {
-  "levelId" : "UUID"
+  "levelId" : "GUID"
   "parentLevelId" : "value of sublevel or domainID"
   "commonProperties" : {
                           "$ref" : "location/of/the/common/properties/def"
